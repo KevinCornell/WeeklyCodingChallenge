@@ -1,0 +1,15 @@
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\bin\Debug\net6.0\CheckEquality.exe
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\bin\Debug\net6.0\CheckEquality.deps.json
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\bin\Debug\net6.0\CheckEquality.runtimeconfig.json
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\bin\Debug\net6.0\CheckEquality.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\bin\Debug\net6.0\CheckEquality.pdb
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.csproj.AssemblyReference.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.AssemblyInfoInputs.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.AssemblyInfo.cs
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.csproj.CoreCompileInputs.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\refint\CheckEquality.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.pdb
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\CheckEquality.genruntimeconfig.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-20-2023\CheckEquality\obj\Debug\net6.0\ref\CheckEquality.dll

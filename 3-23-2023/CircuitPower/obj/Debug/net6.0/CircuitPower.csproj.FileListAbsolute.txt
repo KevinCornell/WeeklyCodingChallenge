@@ -1,0 +1,15 @@
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\bin\Debug\net6.0\CircuitPower.exe
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\bin\Debug\net6.0\CircuitPower.deps.json
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\bin\Debug\net6.0\CircuitPower.runtimeconfig.json
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\bin\Debug\net6.0\CircuitPower.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\bin\Debug\net6.0\CircuitPower.pdb
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.csproj.AssemblyReference.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.AssemblyInfoInputs.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.AssemblyInfo.cs
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.csproj.CoreCompileInputs.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\refint\CircuitPower.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.pdb
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\CircuitPower.genruntimeconfig.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\3-23-2023\CircuitPower\obj\Debug\net6.0\ref\CircuitPower.dll

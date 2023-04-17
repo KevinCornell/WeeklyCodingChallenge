@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalLetters", "CapitalLetters.csproj", "{CA3AE2F9-872B-47C5-8A47-0758142731DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA3AE2F9-872B-47C5-8A47-0758142731DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3AE2F9-872B-47C5-8A47-0758142731DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3AE2F9-872B-47C5-8A47-0758142731DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3AE2F9-872B-47C5-8A47-0758142731DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FC94F0C-0E3D-4DF6-8C55-9BF58D8DC1F0}
+	EndGlobalSection
+EndGlobal

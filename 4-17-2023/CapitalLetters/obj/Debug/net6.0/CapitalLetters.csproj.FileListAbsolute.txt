@@ -1,0 +1,15 @@
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\bin\Debug\net6.0\CapitalLetters.exe
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\bin\Debug\net6.0\CapitalLetters.deps.json
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\bin\Debug\net6.0\CapitalLetters.runtimeconfig.json
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\bin\Debug\net6.0\CapitalLetters.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\bin\Debug\net6.0\CapitalLetters.pdb
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.csproj.AssemblyReference.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.AssemblyInfoInputs.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.AssemblyInfo.cs
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.csproj.CoreCompileInputs.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\refint\CapitalLetters.dll
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.pdb
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\CapitalLetters.genruntimeconfig.cache
+C:\Users\kevdc\Documents\Revature\WeeklyCodingChallenge\4-17-2023\CapitalLetters\obj\Debug\net6.0\ref\CapitalLetters.dll
